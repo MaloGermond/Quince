@@ -1,0 +1,23 @@
+<svg width="10" height="10" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>previous</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(118 72)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -118 -72L -108 -72L -108 -62L -118 -62L -118 -72Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="previous" clip-path="url(#clip-0)">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="translate(-117 -71)"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_stroke" transform="translate(-117 -67)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 0 4L -0.312348 3.60957L -0.800391 4L -0.312348 4.39043L 0 4ZM 5.31235 7.60957L 0.312348 3.60957L -0.312348 4.39043L 4.68765 8.39043L 5.31235 7.60957ZM 0.312348 4.39043L 5.31235 0.390434L 4.68765 -0.390434L -0.312348 3.60957L 0.312348 4.39043Z"/>
+<path id="path1_stroke" d="M 8 -0.5L 0 -0.5L 0 0.5L 8 0.5L 8 -0.5Z"/>
+</defs>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="10" height="10" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>cancel</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(129 72)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -129 -72L -119 -72L -119 -62L -129 -62L -129 -72Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="cancel" clip-path="url(#clip-0)">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="matrix(0.707107 -0.707107 0.707107 0.707107 -126.828 -64.1716)"/>
+</g>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="matrix(0.707107 0.707107 -0.707107 0.707107 -126.828 -69.8284)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 8 -0.5L 0 -0.5L 0 0.5L 8 0.5L 8 -0.5Z"/>
+</defs>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="10" height="10" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>down</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(107 72)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -107 -72L -97 -72L -97 -62L -107 -62L -107 -72Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="down" clip-path="url(#clip-0)">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_stroke" transform="translate(-106 -68)"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_stroke" transform="translate(-102 -71)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 4 5L 3.60957 5.31235L 4 5.80039L 4.39043 5.31235L 4 5ZM 7.60957 -0.312348L 3.60957 4.68765L 4.39043 5.31235L 8.39043 0.312348L 7.60957 -0.312348ZM 4.39043 4.68765L 0.390434 -0.312348L -0.390434 0.312348L 3.60957 5.31235L 4.39043 4.68765Z"/>
+<path id="path1_stroke" d="M -0.5 0L -0.5 8L 0.5 8L 0.5 0L -0.5 0Z"/>
+</defs>
+</svg>
