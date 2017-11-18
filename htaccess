@@ -1,0 +1,13 @@
+#Fichier .htaccess : /MaloGermond/
+
+Options +FollowSymlinks
+RewriteEngine On
+RewriteOptions Inherit
+
+# --------------------------
+# URL Page
+# --------------------------
+
+RewriteRule ^$ index.php [L]
+RewriteRule ^accueil$ index.php [L]
+RewriteRule ^([a-zA-Z\-]*)$  index.php?nProject=$1 [L]

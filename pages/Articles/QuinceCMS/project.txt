@@ -1,0 +1,39 @@
+title: Codons la maille
+-
+legend: Codons la Maille est un périphérique nouveau accompagné d’une application permettant de porter un regard différent sur l’informatique en montrant ce que le code peut nous apporter dans notre utilisation quotidienne de l’ordinateur.
+-
+date: Juin 2016
+-
+tag: Diplôme
+-
+participation:
+-
+exposition: Biennale de Saint-Étienne 2017, D'days 2017
+-
+content:
+Codons la Maille est un périphérique nouveau accompagné d’une application permettant de porter un regard différent sur l’informatique en montrant le code de manière ludique et palpable.
+L’ordinateur est une machine automatisée amenant à des usages prédéfinis qui ne nécessitent pas de connaître son fonctionnement.
+Voir le langage informatique, c’est-à-dire le code et sa logique, permet de révéler les répétitions, de les détourner, pour ouvrir l’usage sur d’autres possibilités. L’enjeu de ce périphérique est de permettre à l’utilisateur de manipuler le code et sa logique. Il se lit et s’écrit à travers le regard et la manipulation d’un outil ayant des ressemblances avec l’informatique, la machine à tricoter.
+{video11}
+<h2>Le dispositif</h2>
+{image02}(Dans un programme, les données d’un ordinateur sont comme les mailles d’un tricot, ce sont de petits éléments, qui mis en forme et assemblées par le code, interagissent entre eux et créent un ensemble lisible et compréhensible. Pratiquer la machine à tricoter nous amène à comprendre son fonctionnement : c’est à dire comment sa matière, la laine se forme en maille puis en tricot.)
+En transformant cette machine à tricoter en un périphérique se branchant sur l’ordinateur, on peut voir le code s’exécuter et interagir dessus. On compose un motif issu du code qui sera tricoté par la machine. Une application accompagne le périphérique et permet de montrer graphiquement, ce qui va être exécuté plus tard sur le tricot. Elle amène une notion d’anticipation sur ce que le code est capable de produire.
+L’utilisateur peut modifier le code et son programme en transformant les données représentées par les mailles et réalisées par la machine à tricoter. Il compose ainsi des surfaces tricotées, qui sont le résultat du programme, et de sa pratique du périphérique. La surface tricotée permet ainsi de se représenter le code sous une autre forme. Le code prend une forme graphique, physique, qui invite à approfondir sa pratique du langage informatique.
+<h2>L'impression du tricot</h2>
+{image03}
+{image04}
+{image10}(Échantillons qui ont été tricotés à la main et dont le dessin a été composé à l’aide de l'application.)
+{image09}
+<h2>Le mode d'emploi</h2>
+{image12}(Édition accompagnant l'interface qui liste les différents éléments et explique leurs fonctionnements.)
+{image13}
+{image14}
+{image15}
+{image16}
+{image17}
+{image18}
+<h2>Exposition D'days 2017</h2>
+{imageddays01}
+{imageddays02}
+{imageddays03}
+---
